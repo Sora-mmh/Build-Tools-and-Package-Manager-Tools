@@ -132,15 +132,3 @@
 | Poetry       | Python         | `pyproject.toml`      | Modern packaging + dependency mgmt| Simplifies workflows               |
 | Make / CMake | Native/C, C++  | Makefiles, scripts    | Universal, well-integrated         | Native builds                    |
 
-For each environment, **we choose the build tool that aligns with the team’s expertise, project’s complexity, and the level of automation/extensibility our workflow demands**.
-
-[1] https://gradle.org/maven-and-gradle/
-[2] https://www.jrebel.com/blog/java-build-tools-comparison
-[3] https://blog.lunatech.com/posts/2024-11-01-maven-vs-gradle
-[4] https://hackernoon.com/lang/fr/est-gradle-vraiment-mieux-que-maven-mon-verdict-final
-[5] https://stackify.com/gradle-vs-maven/
-[6] https://dev.to/lahiru_rajapakshe_8634adb/maven-vs-gradle-comprehensive-comparison-2li3
-[7] https://www.youtube.com/watch?v=L2S41-pgG7I
-[8] https://www.baeldung.com/ant-maven-gradle
-[9] https://blog.frankel.ch/final-take-gradle/
-[10] https://www.javacodegeeks.com/2024/09/maven-and-gradle-a-side-by-side-comparison.html
